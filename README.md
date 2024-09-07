@@ -1,7 +1,7 @@
 # AI Styling
 I believe this is how web development will look like in the future, we will write all code as prompts, rather than a fixed syntax.
 
-> This is a weeekend project that let you write pronpt to style your elements, instead of CSS styles / tailwind classes to style the components.
+> This is a weekend project that let you write prompt to style your elements, instead of CSS styles / tailwind classes to style the components.
 
 ## Syntax
 As you can see below there's no fixed syntax on how you provide the prompt, you can clearly state what you want, give a vague idea or just tell it to copy a popular real world element's style
